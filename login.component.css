@@ -1,0 +1,23 @@
+
+#from-container{
+    background: color #3498db; ;
+    padding: 50px;
+    text-align: center;
+    height: 100vh;
+}
+h2{
+    margin: 0px 0px 0px opx;
+}
+input{
+    width: 200px;
+    margin: 10px 10px;
+    padding: 10px;
+}
+button[type="submit"]{
+    width: 222px;
+    background-color: #3498db;
+    color: white;
+    margin: 10px 10px;
+    padding: 10px;
+    
+}
